@@ -46,7 +46,11 @@ authors="Cruderdragon835"
 
 # The description text for the mod (multi line!) (#mandatory)
 description='''
-Example mod description.
+WELCOME TO Aetheria-Medical!\n
+Inspired by the game Medical Project, I wanted to build a general hospital in Minecraft.\n
+But my favorite medical mods were either too low in version, or had too few items to manipulate.\n
+So I intend to develop a mod for various medical devices based on Java1.21.1.\n
+Students development is not easy, please don't hesitate to give advice~   ovo
 '''
 
 # The [[mixins]] block allows you to declare your mixin config to FML so that it gets loaded.
