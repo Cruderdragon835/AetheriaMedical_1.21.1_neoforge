@@ -1,0 +1,13 @@
+{
+  "itemGroup.aetheria_medical": "Example Mod Tab",
+  "block.aetheria_medical.example_block": "Example Block",
+  "item.aetheria_medical.example_item": "Example Item",
+
+  "aetheria_medical.configuration.title": "Aetheria-Medical Configs",
+  "aetheria_medical.configuration.section.aetheria_medical.common.toml": "Aetheria-Medical Configs",
+  "aetheria_medical.configuration.section.aetheria_medical.common.toml.title": "Aetheria-Medical Configs",
+  "aetheria_medical.configuration.items": "Item List",
+  "aetheria_medical.configuration.logDirtBlock": "Log Dirt Block",
+  "aetheria_medical.configuration.magicNumberIntroduction": "Magic Number Text",
+  "aetheria_medical.configuration.magicNumber": "Magic Number"
+}
